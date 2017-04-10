@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sales</string>
+
+    <string name="internet_error_connectivity">Please check ur internet connection and try again later</string>
+    <string name="msg_error_connectivity">Something went wrong..Please try again later</string>
+    <string name="gps_not_enabled_msg">Please enable your location</string>
+    <string name="location_permission_not_granted">Please grant location permission</string>
+    <!-- Login Screen-->
+    <string name="uname_input_hint">username</string>
+    <string name="password_input_hint">password</string>
+    <string name="uname_input_blank_error">Username cannot be empty</string>
+    <string name="password_input_blank_error">Password cannot be empty</string>
+</resources>
